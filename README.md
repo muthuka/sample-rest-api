@@ -12,6 +12,10 @@ ROOT_PASSWORD=secret1234!
 TOKEN_EXPIRATION_SECONDS=3600
 ```
 
+## Postman
+
+If you want to run the service and test it with Postman, look for the files under /postman folder and import them as a collection and also environment Local.
+
 # Project Details
 
 1. Supported CRUD Operations:
